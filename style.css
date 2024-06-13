@@ -1,0 +1,52 @@
+html{
+    margin:0;
+}
+span{
+    display:block;
+}
+.canvas{
+    margin:100px auto 100px;
+    width:80%;
+    text-align:center;
+
+
+}
+.button{
+    width:100px;
+    height:100px;
+    border:2px solid black;
+    display:inline-block;
+}
+#grey{
+    background:grey;
+
+}
+#white{
+    background-color: antiquewhite;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color:yellow;
+}
+#purple{
+    background-color:purple;
+}
+#red{
+    background-color:red;
+}
+nav{
+    background-color:#e1dbdb;
+    padding:30px;
+    text-align:center;
+
+}
+a{
+    text-decoration:none;
+    margin:5px;
+    border:2px solid black;
+    padding:8px; 
+    border-radius:12px;
+    color:black;
+}
